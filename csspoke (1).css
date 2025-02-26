@@ -52,7 +52,7 @@ body {
 .poketableplanta{
     display: inline-block;
     width: 250px;
-    height: 50px;
+    height: 255px;
     margin-right: 100px; /* Adiciona um espaço entre as imagens */
     background-color: rgb(120, 247, 146);
     text-align: center;
