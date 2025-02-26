@@ -41,7 +41,7 @@ body {
 }
 .poketablefogo{
     display: inline-block;
-    width: 1409px;
+    width: 250px;
     margin-right: 100px; /* Adiciona um espaço entre as imagens */
     background-color: rgb(242, 198, 109);
     text-align: center;
@@ -50,7 +50,7 @@ body {
 }
 .poketableplanta{
     display: inline-block;
-    width: 1409px;
+    width: 250px;
     margin-right: 100px; /* Adiciona um espaço entre as imagens */
     background-color: rgb(120, 247, 146);
     text-align: center;
@@ -59,7 +59,7 @@ body {
 }
 .poketableagua{
     display: inline-block;
-    width: 1409px;
+    width: 250px;
     margin-right: 100px; /* Adiciona um espaço entre as imagens */
     background-color: rgb(138, 195, 244);
     text-align: center;
