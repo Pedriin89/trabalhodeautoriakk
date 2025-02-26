@@ -42,7 +42,6 @@ body {
 .poketablefogo{
     display: inline-block;
     width: 250px;
-    height: 50px;
     margin-right: 100px; /* Adiciona um espaço entre as imagens */
     background-color: rgb(242, 198, 109);
     text-align: center;
